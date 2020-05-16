@@ -3,11 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lemchen.github.io/</loc>
+    <lastmod>2020-05-16T17:15:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lemchen.github.io/post/</loc>
+    <lastmod>2020-05-16T17:15:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lemchen.github.io/post/second/</loc>
+    <lastmod>2020-05-16T17:15:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lemchen.github.io/post/first/</loc>
+    <lastmod>2020-05-16T16:06:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lemchen.github.io/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://lemchen.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://lemchen.github.io/</loc>
+    <loc>https://lemchen.github.io/categories/development/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lemchen.github.io/tags/development/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lemchen.github.io/categories/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lemchen.github.io/tags/golang/</loc>
   </url>
   
   <url>
