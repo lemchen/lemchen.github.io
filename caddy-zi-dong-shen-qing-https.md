@@ -46,8 +46,8 @@ cloudflare tls 的 token 可以直接写在 caddyfile 里
 
 ```yaml
 tls {
-	dns cloudflare {env.CLOUDFLARE_API_TOKEN}
-	dns lego_deprecated dnspod #DNSPOD 的写法
+  dns cloudflare {env.CLOUDFLARE_API_TOKEN}
+  dns lego_deprecated dnspod #DNSPOD 的写法
 }
 ```
 
